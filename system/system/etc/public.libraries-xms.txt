@@ -1,0 +1,5 @@
+libmiuiclassproxy.xms.so
+libmiuidiffpatcher.xms.so
+libmiuiimageutilities.xms.so
+libmiuinative.xms.so
+libmp3lame.xms.so

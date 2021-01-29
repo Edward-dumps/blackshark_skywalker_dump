@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="gson.jar"
+        file="/system/framework/gson.jar" />
+    <library name="android-support-v13.jar"
+        file="/system/framework/android-support-v13.jar" />
+    <library name="miui-push.jar"
+        file="/system/framework/miuipushsdkshared.jar" />
+    <library name="xms-update.jar"
+        file="/system/framework/xms-update.jar" />
+    <library name="protobuf.jar"
+        file="/system/framework/protobuf.jar" />
+    <library name="eventbus.jar"
+        file="/system/framework/eventbus.jar" />
+    <library name="android-support-v7-recyclerview.jar"
+        file="/system/framework/android-support-v7-recyclerview.jar" />
+</permissions>

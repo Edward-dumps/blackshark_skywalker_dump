@@ -1,0 +1,6 @@
+enable3ADebugData=TRUE
+logVerboseMask=0x8000000
+logPerfInfoMask=0x0
+logInfoMask=0x8000000
+logWarningMask=0x0
+overrideLogLevels=0x1

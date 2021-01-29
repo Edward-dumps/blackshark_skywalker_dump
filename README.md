@@ -1,0 +1,14 @@
+# skywalker-user 9 SKYW1907040OS01MP3 bs.20190704.1428 release-keys
+- manufacturer: blackshark
+- platform: msmnile
+- codename: skywalker
+- flavor: skywalker-user
+- release: 9
+- id: SKYW1907040OS01MP3
+- incremental: bs.20190704.1428
+- tags: release-keys
+- fingerprint: blackshark/SKW-H0_EEA/skywalker:9/SKYW1907040OS01MP3/bs.20190704.1428:user/release-keys
+- is_ab: true
+- brand: blackshark
+- branch: skywalker-user-9-SKYW1907040OS01MP3-bs.20190704.1428-release-keys
+- repo: blackshark_skywalker_dump
